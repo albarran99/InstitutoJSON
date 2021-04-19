@@ -1,3 +1,36 @@
 {
-    "name" : "FedericaMontsei"
-}
+    "name" : "FedericaMontsei", 
+        "TituloOfertado" : [{
+            "Name" : "IEA",
+            "Hours" : "2000h"
+        },
+
+        {
+            "Names" : "DAM",
+            "Hours" : "2000h"
+        }
+
+        ],
+        
+        "Pupil" : [{
+            "Name" : "Jose",
+            "Username" : "Perez",
+            "Course" : "1DAM",
+            "Birth" : "1999-10-03"
+
+            },
+
+            {
+
+            "Name" : "Jose",
+            "Username" : "Perez",
+            "Course" : "1DAM",
+            "Birth" : "1999-10-03"
+
+            }
+
+        ]
+
+
+    }
+    
